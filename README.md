@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @cnallis
-- 👀 I’m interested in learn a few things...
-- 🌱 I’m currently learning a lot of things...
-- 💞️ I’m looking to collaborate on Whatever comes along...
-- 📫 How to reach me, don't do this...
-
-<!---
-cnallis/cnallis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bom dia, boa tarde e boa noite! 
+Sou novo neste universo de programação e ainda sigo em estudo.
+Postarei mais coisas assim que for dominando suas respectivas funções.
+Grato, e lembre-se: Bebam água!
